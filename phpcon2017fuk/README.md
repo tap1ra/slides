@@ -17,8 +17,7 @@
   + mruby-ipfilter
     * mrubyとは
     * なぜmrubyなのか
-      - mruby?
-      - ngx_mrubyの作者
+      - ngx_mrubyの作者が近くにいる
       - mrubyでミドルウェアの処理を柔軟に記述できる
     * mruby-ipfilterの処理概要
       - 海外IP判定をmaxminddbで国コードによっておこなう
